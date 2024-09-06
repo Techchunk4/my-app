@@ -86,8 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-### Additional Notes:
-- Remember to replace the **live demo link** and **GitHub repository link** with actual URLs when available.
-- You can include more screenshots by capturing parts of the website and hosting them in the `images` folder.
-
 This **README.md** file ensures clarity for anyone who wants to contribute or review the project.
